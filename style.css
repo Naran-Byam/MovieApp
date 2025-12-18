@@ -10,7 +10,7 @@ h1 {
 }
 button {
     border: none;
-    border-radius: 20px;
+    border-radius: 30px;
     padding: 10px 25px;
     cursor: pointer;
     margin: 20px;
@@ -22,12 +22,12 @@ button {
 .card {
     display: flex;
     gap: 20px;
-    background-color: rgb(138, 196, 206);
+    background-color: rgb(160, 206, 138);
     padding: 20px;
     border-radius: 15px;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
-    max-width: 800px;
-    width: 60%;
+    max-width: 1000px;
+    width: 80%;
 }
 
 .nav button:hover {
